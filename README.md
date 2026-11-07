@@ -2,3 +2,5 @@
 
 A sythesizer that is controlled by movement etc.
     -will add a read me after finishing the functioning code!
+
+# DONT EDIT ANYTHING FROM THE REPOSITORY DIRECTLY USE THE CODESPACE!!!
