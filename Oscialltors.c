@@ -150,8 +150,7 @@ int main(void) {
 
 
     printf("\n=== Two Oscillator Synthesiser ===\n");
-
-
+    
     // User frequency inputs - will use accelerometer values in future
     printf("\nEnter frequency for oscillator 1 (Hz): ");
     if (scanf("%lf", &osc1.frequency) != 1 ||
